@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\SDK\osgopenvrviewer-master\src\openvrviewer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDK\osgopenvrviewer-master\src\openvrdevice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDK\osgopenvrviewer-master\src\openvreventhandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDK\osgopenvrviewer-master\src\openvrupdateslavecallback.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\SDK\osgopenvrviewer-master\src\openvrviewer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\osgopenvrviewer-master\src\openvrdevice.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\osgopenvrviewer-master\src\openvreventhandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\osgopenvrviewer-master\src\openvrupdateslavecallback.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\SDK\osgopenvrviewer-master\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6612736F-32CB-3F44-80F7-3A60A517A9A6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{FE199DCE-BF0C-32D8-8479-9D39A4699110}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

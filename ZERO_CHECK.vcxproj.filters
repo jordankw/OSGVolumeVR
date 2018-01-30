@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\SDK\osgopenvrviewer-master\build\CMakeFiles\b5db6a33aa224586bea7aef1a8e1b2e4\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{68DFF83E-C22B-3F86-8989-AA6A6D06DF4E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
